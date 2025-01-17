@@ -1,0 +1,112 @@
+{
+    "userList": [
+        {
+            "userId": 121,
+            "username": "ABC",
+            "Fname": "ABC",
+            "city": "",
+            "state": "",
+            "zipcode": "112233"
+        },
+        {
+            "userId": 122,
+            "username": "DEF",
+            "Fname": "DEF",
+            "city": "",
+            "state": "",
+            "zipcode": "445566"
+        },
+        {
+            "userId": 123,
+            "username": "GHI",
+            "Fname": "GHI",
+            "city": "",
+            "state": "",
+            "zipcode": "112233"
+        },
+        {
+            "userId": 124,
+            "username": "JKL",
+            "Fname": "JKL",
+            "city": "",
+            "state": "",
+            "zipcode": "995566"
+        }
+    ],
+    "cityList": [
+        "Pune",
+        "Mumbai",
+        "Thane"
+    ],
+    "stateList": [
+        "MAHA",
+        "GOA",
+        "PUNE"
+    ],
+    "createUser": [
+        {
+            "result": true,
+            "data": {
+                "userId": 121,
+                "username": "ABC",
+                "Fname": "ABC",
+                "city": "",
+                "state": "",
+                "zipcode": "112233"
+            }
+        }
+    ],
+    "updateUser": [
+        {
+            "result": true,
+            "data": {
+                "userId": 121,
+                "username": "ABC",
+                "Fname": "ABC",
+                "city": "",
+                "state": "",
+                "zipcode": "112233"
+            }
+        }
+    ],
+    "deleteUser": [
+        {
+            "result": true,
+            "data": {
+                "userId": 121,
+                "username": "ABC",
+                "Fname": "ABC",
+                "city": "",
+                "state": "",
+                "zipcode": "112233"
+            }
+        }
+    ],
+    "employeeList": [
+        {
+            "empId": 311,
+            "empName": "Akash",
+            "city": "Solapur"
+        },
+        {
+            "empId": 312,
+            "empName": "Priya",
+            "city": "Pune"
+        },
+        {
+            "empId": 313,
+            "empName": "Shweta",
+            "city": "Solapur"
+        },
+        {
+            "empId": 314,
+            "empName": "Vijaya",
+            "city": "Osmanabad"
+        },
+        {
+            "empId": 315,
+            "empName": "MOM & Papa",
+            "city": "Solapur"
+        }
+    ]
+}
